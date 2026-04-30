@@ -25,7 +25,7 @@ description: >
 ## 快速开始
 
 1. 确认输入材料（小说/大纲/口头描述）
-2. **执行"小说→剧本提取流程"**（见下）
+2. **执行"小说→剧本提取流程"**（详见 [references/workflow-novel-to-script.md](references/workflow-novel-to-script.md)）
 3. 按 3-5-3 节奏模型规划整体结构（见下）
 4. 设计 1+3+N 角色矩阵
 5. 标注四级卡点位置
